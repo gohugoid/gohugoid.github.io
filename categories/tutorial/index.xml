@@ -4,4 +4,4 @@ Step 1 &amp;ndash; Fork dan Clone Repository Silahkan buka https://github.com/go
 Maka sekarang kamu punya repository gohugoid-web yang merupakan hasil fork dari repository Hugo Indonesia.
 Ambil URL repo tersebut:
 Kemudian lakukan clone dengan perintah:
-git clone Sekarang kamu sudah punya repo gohugoid-web di komputermu.</description></item></channel></rss>
+git clone git@github.</description></item></channel></rss>
